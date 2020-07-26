@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(80, 45, 36);
+}
+
+#top {
+    border: none;
+    background-color: rgba(14, 102, 102, 0.863);
+    border-radius: 0;
+}
+
+#top a {
+    color: rgb(160, 155, 116);
+}
+
+#menu-collapse li {
+    text-align: center;
+}
+
+#menu-collapse hr {
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 80%;
+    background-color: rgb(110, 150, 110);
+}
+
+#our-menu {
+    color: rgb(250, 179, 179);
+}
+
+#main-content #home-tile div {
+    box-sizing: border-box;
+    margin-bottom: 1%;
+}
+
+#main-content #home-tile div div {
+    padding: 2%;
+    background-color: rgb(219, 127, 93);
+    color: #000;
+}
